@@ -1,0 +1,20 @@
+.menu_bars{
+    display: inline-flex;
+    flex-direction: column;
+    background-color: darkgrey;
+
+justify-content: space-between;
+align-items: center;
+    
+}
+a{
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+}
+.home{
+    background-color: green;
+}
+a:hover{
+    background-color: black;
+}
